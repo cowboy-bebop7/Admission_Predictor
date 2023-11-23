@@ -1,8 +1,8 @@
 # Admission_Predictor
 
-This project is for predicting the chance of admission for students.
+This project is for predicting the chance of admission for students in particular college.
 
-It uses two regression algorithms for predicting the chance of admission:
+It uses two regression algorithms :
 * Random Forest Regressor
 * Gradient Boosting Regressor
 
